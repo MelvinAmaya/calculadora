@@ -147,7 +147,7 @@
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="0.20dp"
-        android:backgroundTint="@color/gray"
+        android:backgroundTint="@color/black"
         android:onClick="Signo"
         android:text="+/-"
         android:textSize="25dp"
